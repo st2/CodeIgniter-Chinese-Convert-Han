@@ -36,10 +36,10 @@
 
 /*
 | -------------------------------------------------------------------
-| Chinese Convert Characters
+| Multiple Roles
 | -------------------------------------------------------------------
-| Below character set contains an array of chinese characters for
-| conversion used by the UTF-8 Chinese Convert
+| Below character set contains an array of chinese wording for
+| conversion different characters but same meaning
 |
 */
 
